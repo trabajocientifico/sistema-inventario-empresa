@@ -12,7 +12,7 @@ import uuid
 # para tu empresa. Léelos con cuidado.
 
 # Nombre que aparecerá en la pestaña del navegador y como título principal.
-NOMBRE_APP = "Gestor de Negocio"
+NOMBRE_APP = "MI EMPRESA" 
 
 # Emoji que aparecerá como icono en la pestaña del navegador.
 ICONO_APP = "🌟"
